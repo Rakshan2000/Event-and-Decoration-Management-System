@@ -1,0 +1,1 @@
+java -jar MANAGEMENT_SYSTEM.jar
