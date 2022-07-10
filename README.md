@@ -1,0 +1,12 @@
+# Event-and-Decoration-Management-System
+Sri Raghavendra Shamiyana has an event managing and decorating shop in Bangalore with customers from all over Bangalore.  since it has a lot of marketing and business all over Bangalore, it is difficult to manage the vast amount of data on a sheet of paper and billing book. Their main business deals with booking a hall for any occasions such as marriage, get-together parties and many more, decorations such as flowers, lightings, chairs, etc, catering services, pandal services. Since the customers who bring their orders here have lots of items to take by, it will be hard for the billing person to write down all the items, totaling, billing, and maintain the copy for the future. The office maintains the details of the customer’s name, address, phone number, place, and email id, date of connection, items ordered by the customer, the total number of items,  total to be paid (amount + Tax), name of the person who billed the items. Further, these data will be stored as a bill and one copy will be printed for the customer and the other will be the reference for the owner. Items must be specified in the Database by giving them a certain code such as chair – c1 and so on, such the items could be entered easily, the amount of each item required must be taken, later the total amount of each item must be given out then adding everything, the bill must be produced.
+# PROJECT SCREENSHOTS
+![Capture](https://user-images.githubusercontent.com/50408565/178135284-1324cdfd-bc07-416e-aa85-12915170c3ab.PNG)
+![admin](https://user-images.githubusercontent.com/50408565/178135287-1ad05f4b-fb71-4574-9194-053f9ce073cd.PNG)
+![Admin_control_item](https://user-images.githubusercontent.com/50408565/178135289-c7ee6db2-4c35-4c85-a7c6-c6d401c636fe.PNG)
+![Admin_control_hall](https://user-images.githubusercontent.com/50408565/178135291-f0baba84-2b6e-42cd-9011-f74be77c5708.PNG)
+![customer](https://user-images.githubusercontent.com/50408565/178135295-9eef0a5c-d72c-43b4-8210-f1794b9b3e94.PNG)
+![bookhall](https://user-images.githubusercontent.com/50408565/178135300-ea0833ea-5ef4-47ff-9a91-5d7a45b3025c.PNG)
+![order_items](https://user-images.githubusercontent.com/50408565/178135308-dd138ed6-b850-4284-b085-c7c9b426138a.PNG)
+![orders](https://user-images.githubusercontent.com/50408565/178135310-03f90618-81fd-4b12-81f6-ce860cd53b29.PNG)
+![payment](https://user-images.githubusercontent.com/50408565/178135315-8d955ac1-e769-4a50-875e-d4f03de890fe.PNG)
